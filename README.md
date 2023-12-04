@@ -29,6 +29,7 @@ restaurant-app/
 |-- public/
 |-- package.json
 |-- README.md
+|-- server.js
 
 Setup
 Clone the repository:
